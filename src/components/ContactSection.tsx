@@ -80,18 +80,6 @@ export function ContactSection() {
           </div>
         </motion.div>
 
-        {/* Footer */}
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={isInView ? { opacity: 1 } : {}}
-          transition={{ duration: 0.6, delay: 0.4 }}
-          className="text-center mt-16 pt-8 border-t border-border"
-        >
-          <p className="text-muted-foreground text-sm">
-            Designed & Built by{" "}
-            <span className="text-primary font-medium">Priyanshi Bora</span>
-          </p>
-        </motion.div>
       </div>
     </section>
   );
