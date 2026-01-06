@@ -20,8 +20,8 @@ const skillCategories = [
     skills: ["RESTful APIs", "JWT Authentication", "Data Structures", "Algorithms", "Basic AI/ML"],
   },
   {
-    title: "UI/UX",
-    skills: ["Figma"],
+    title: "UI/UX & Design",
+    skills: ["Figma", "Canva"],
   },
 ];
 
