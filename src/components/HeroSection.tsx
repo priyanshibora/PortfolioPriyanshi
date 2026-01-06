@@ -50,7 +50,7 @@ export function HeroSection() {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
-                href="mailto:priyanshiibora@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&to=priyanshiibora@gmail.com"
                 className="w-10 h-10 rounded-full bg-[#EA4335] flex items-center justify-center text-white hover:opacity-80 transition-all duration-300"
               >
                 <Mail className="w-5 h-5" />
