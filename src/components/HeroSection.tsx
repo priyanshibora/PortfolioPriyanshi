@@ -61,7 +61,7 @@ export function HeroSection() {
             <div className="flex flex-wrap gap-4">
               <a
                 href="#contact"
-                className="px-8 py-3 bg-primary text-primary-foreground font-semibold rounded-lg hover:opacity-90 transition-all duration-300 glow-accent"
+                className="px-8 py-3 border-2 border-primary text-primary font-semibold rounded-lg hover:bg-primary hover:text-primary-foreground transition-all duration-300"
               >
                 Contact Me
               </a>
