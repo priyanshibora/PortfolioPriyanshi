@@ -6,7 +6,7 @@ import { Briefcase } from "lucide-react";
 const experiences = [
   {
     title: "Software Developer Intern",
-    company: "Essentia.dev",
+    company: "Essentia.dev, Noida",
     type: "Internship",
     period: "Jan 2026 – May 2026",
     points: [
