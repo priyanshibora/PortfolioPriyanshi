@@ -5,31 +5,17 @@ import { Briefcase } from "lucide-react";
 
 const experiences = [
   {
-    title: "Web Development Intern",
-    company: "CodSoft",
+    title: "Software Developer Intern",
+    company: "Essentia.dev",
     type: "Internship",
-    period: "June 2024 – July 2024",
+    period: "Jan 2026 – May 2026",
     points: [
-      "Completed a one-month internship focused on frontend-centric web development",
-      "Built a personal portfolio website, a responsive travel agency landing page, and a functional calculator",
-      "Worked using HTML, CSS, and JavaScript",
-      "Focused on layout structure, basic styling, client-side logic, usability, and meeting task deadlines",
-    ],
-  },
-  {
-    title: "Full-Stack Developer",
-    company: "College Event Hub",
-    type: "Academic Project",
-    period: "Jan 2025 – May 2025",
-    points: [
-      "Designed and developed a full-stack college event management system",
-      "Implemented role-based access for students, admins, and volunteers",
-      "Developed responsive frontend interfaces using HTML, CSS, and JavaScript",
-      "Built backend APIs using Node.js and Express",
-      "Implemented JWT-based authentication and authorization",
-      "Managed data storage using MySQL",
-      "Integrated email notifications for approvals and updates",
-      "Ensured proper validation, access control, and smooth data flow",
+      "Completed a five-month internship focused on full-stack web development.",
+      "Developed responsive web interfaces using HTML, CSS, JavaScript, and React.",
+      "Worked on backend features using Node.js and Express.js.",
+      "Integrated APIs and handled data flow between frontend and backend.",
+      "Collaborated with mentors and fellow interns to implement project requirements.",
+      "Improved application usability, responsiveness, and overall performance.",
     ],
   },
 ];
