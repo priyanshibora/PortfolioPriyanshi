@@ -22,14 +22,14 @@ const projects = [
     title: "Personal Finance Risk Forecaster",
     period: "2024",
     description:
-      "A financial risk assessment tool that analyzes income, expenses, and debt patterns using rule-based backend logic. Provides actionable insights without relying on complex ML models — just clear, structured analysis.",
+      "A full-stack web application that connects blood donors with recipients through a centralized platform. Enables users to register as donors, search for available donors by blood group and location, and manage donor information efficiently.",
     features: [
-      "Rule-based risk assessment",
-      "RESTful API architecture",
-      "Data modeling & validation",
-      "Error handling best practices",
+      "Donor registration and profile management",
+      "Search donors by blood group and city",
+      "Secure user authentication and authorization",
+      "Responsive user interface with form validation",
     ],
-    techStack: ["JavaScript", "Node.js", "Express", "MongoDB", "HTML", "CSS"],
+    techStack: ["JavaScript", "Node.js", "Express", "MySQL", "HTML", "CSS"],
   },
 ];
 
