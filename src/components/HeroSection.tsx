@@ -66,7 +66,7 @@ export function HeroSection() {
                 Contact Me
               </a>
               <a
-                href="https://drive.google.com/file/d/1iMFODOMlaw2CYpuNdd3SY0GE7Nbx-Mmy/view?usp=sharing"
+                href="https://drive.google.com/file/d/19EW9UxP0oCgY3Q7OG2sOwHOd5RUiVGJo/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-3 border-2 border-primary text-primary font-semibold rounded-lg hover:bg-primary hover:text-primary-foreground transition-all duration-300"
